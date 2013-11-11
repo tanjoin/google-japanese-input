@@ -24,6 +24,44 @@
 きちがい	└(՞ةڼ◔)」	顔文字	
 きちがい	‎ヽ( 　◔ ڼ ◔　 )ﾉ	顔文字	
 きちがいきょうしゅう	三三三ʅ(；◔౪◔)ʃ	顔文字	
+ぎっと	git	サジェストのみ	
+ぎっとあど	git add	サジェストのみ	
+ぎっとくろーん	git clone	サジェストのみ	
+ぎっとこみっと	git commit	サジェストのみ	
+ぎっとこみっとあめんど	git commit --amend	サジェストのみ	
+ぎっとじーしー	git gc	サジェストのみ	
+ぎっとしょうぶらんち	git show-branch	サジェストのみ	
+ぎっとすたっしゅ	git stash	サジェストのみ	
+ぎっとすたっしゅあぷらい	git stash apply	サジェストのみ	
+ぎっとすたっしゅせーぶ	git stash save	サジェストのみ	
+ぎっとすたっしゅぽっぷ	git stash pop	サジェストのみ	
+ぎっとすてーたす	git status	サジェストのみ	
+ぎっとすてーたすえすびー	git status -sb	サジェストのみ	
+ぎっとたぐ	git tag	サジェストのみ	
+ぎっとちぇっくあうとてぃー	git checkout -t	サジェストのみ	
+ぎっとちぇっくあうとびー	git checkout -b	サジェストのみ	
+ぎっとでぃふ	git diff	サジェストのみ	
+ぎっとでぃふわーどでぃふ	git diff --word-diff	サジェストのみ	
+ぎっとふぇっち	git fetch	サジェストのみ	
+ぎっとぷっしゅ	git push	サジェストのみ	
+ぎっとぷっしゅゆー	git push -u	サジェストのみ	
+ぎっとぶらんち	git branch	サジェストのみ	
+ぎっとぶらんちでりーと	git branch -D	サジェストのみ	
+ぎっとぷる	git pull	サジェストのみ	
+ぎっとぷるりべーす	git pull --rebase	サジェストのみ	
+ぎっとまーじ	git merge	サジェストのみ	
+ぎっとりせっとはーど	git reset --hard	サジェストのみ	
+ぎっとりせっとはーどへっどにょろ	git reset --hard HEAD~	サジェストのみ	
+ぎっとりばーと	git revert	サジェストのみ	
+ぎっとりふろぐ	git reflog	サジェストのみ	
+ぎっとりべーす	git rebase	サジェストのみ	
+ぎっとりべーすあい	git rebase -i HEAD~2	サジェストのみ	
+ぎっとりべーすこんてぃにゅー	git rebase --continue	サジェストのみ	
+ぎっとりもーとあっぷでーと	git remote update	サジェストのみ	
+ぎっとりもーとあっぷでーとぎっとちぇっくあうとぎっとぷる	git remote update; git checkout master; git pull origin master	サジェストのみ	
+ぎっとろぐ	git log	サジェストのみ	
+ぎっとろぐぐらふ	log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	サジェストのみ	
+ぎっとろぐぐらふ	log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	サジェストのみ	
 きらーん	✦(╹◡╹｜	顔文字	
 くし	　-(:3 (:3 (:3 (:3 (:3 _ )─	顔文字	
 くそねみ	( ˘ω˘ )	顔文字	
@@ -75,6 +113,7 @@
 ぷちみれ	ないことがあるように運命とは、避けがたく、時にはかないもの	サジェストのみ	
 ふるえる	:;((•﹏•๑)));:	顔文字	
 ぶるぶる	:;((•﹏•๑)));:	顔文字	
+ぷるりくえすと	git checkout -t	サジェストのみ	
 ふん	( ｰ̀ωｰ́ )	顔文字	
 ぶんしん	⁽(ી₍₍⁽⁽(ી⁽⁽(ી₍₍⁽⁽(ી( ˆoˆ )ʃ)₎₎⁾⁾ʃ)₎₎ʃ)₎₎⁾⁾ʃ)₎₎	顔文字	
 ぶんぶん	(＾ω＾≡＾ω＾)	顔文字	
