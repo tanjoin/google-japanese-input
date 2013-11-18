@@ -12,10 +12,10 @@ if (argc != 2):
 
 jajp_value = []
 jajp_key = []
-f = open(argv[1])
+f = open(argv[1], 'r')
 line = f.readline() # 1行読み込む
 while line:
-  divideLine = line.rsplit("	")
+  divideLine = line.split("	")
   jajp_key.append(divideLine[0])
   jajp_value.append(divideLine[1])
   line = f.readline()
