@@ -20,9 +20,12 @@ Androidではsimejiを使いたいそんなときに動かすシェルスクリ�
 ## convert_simeji.py ##
 
 シェルスクリプトの本体
+
 tanjoin_google_japanese_input.txt から simeji_user_dic.txt を生成する
 
 
 ### Google日本語入力が使いにくいので辞書作っていたがサジェストできないものが多々あって完全に詰んでしまったのでsimejiに浮気しました ##
+
 Google日本語入力をもっと使いやすくして下さい
+
 Godanとかいらないので
