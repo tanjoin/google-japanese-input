@@ -1,6 +1,6 @@
 which python > /dev/null 2>&1
 if [ $? = 0 ]; then
-  python convert_simeji.py tanjoin_google_japanese_input.txt 
+  python bin/convert_simeji.py tanjoin_google_japanese_input.txt 
   echo "FINISH!!"
 else
   echo "python : not found"
