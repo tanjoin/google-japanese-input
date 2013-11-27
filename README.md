@@ -16,6 +16,7 @@ Google日本語入力が以下に対応していないので
     し        e        サジェストのみ        Android版Google日本語入力が使いにくいので。
 
 Androidではsimejiを使いたいそんなときに動かすシェルスクリプト
+...だけどうまく動いていない( ꒪Д꒪)
 
 ## convert_simeji.py ##
 
