@@ -22,7 +22,8 @@ Androidではsimejiを使いたいそんなときに動かすシェルスクリ�
 
 シェルスクリプトの本体
 
-tanjoin_google_japanese_input.txt から simeji_user_dic.txt を生成する
+<del>tanjoin_google_japanese_input.txt から simeji_user_dic.txt を生成する</del>
+Google日本語入力からSimejiへの辞書変換スクリプト
 
 ## AndroidのIMEの現状 ##
 
