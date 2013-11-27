@@ -1,6 +1,8 @@
 which python > /dev/null 2>&1
 if [ $? = 0 ]; then
-  python bin/convert_simeji.py tanjoin_google_japanese_input.txt 
+  for file in `find google_japanese_input -name "*.txt"`; do
+    python bin/convert_simeji.py $file
+  done
   echo "FINISH!!"
 else
   echo "python : not found"

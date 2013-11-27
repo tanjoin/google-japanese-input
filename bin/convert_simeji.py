@@ -42,6 +42,7 @@ for x in jajp_key:
 
 result += "]}"
 
-f = open('simeji_user_dic.txt', 'w')
+splitfilename = argv[1].split('/');
+f = open('simeji/' + splitfilename[-1], 'w')
 f.write(result)
 f.close()
