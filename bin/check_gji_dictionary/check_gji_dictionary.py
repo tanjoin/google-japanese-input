@@ -47,8 +47,8 @@ while line:
       counter = counter + 1
       continue
   # コメント ----------------------------
-  #if len(divideLine[3]) > 30
-  #  print(u"Warning : " + str(counter) + u"line : " + u"コメントが長いです")
+  if len(divideLine[3]) > 300
+      print(u"Error : " + str(counter) + u"line : " + u"コメントが長いです")
   line = f.readline()
   counter = counter + 1
 f.close
