@@ -1,7 +1,8 @@
 which python > /dev/null 2>&1
 if [ $? = 0 ]; then
   for file in `find google_japanese_input -name "*.txt"`; do
-    python bin/convert_simeji/convert_simeji.py $file
+    echo "[$file]"
+    python bin/check_gji_dictionary/check_gji_dictionary.py $file
   done
   echo "FINISH!!"
 else
