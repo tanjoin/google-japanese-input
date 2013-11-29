@@ -35,11 +35,14 @@ while line:
     counter = counter + 1
     continue
   # よみ --------------------------------
+  if len(divideLine[0]) > 300 :
+    print(u"Error : " + str(counter) + u"line : " + u"よみが長いです(" + str(len(divideLine[0]))  + u")")
   result = regexpYomi.search(divideLine[0])
   if result == None : # すべてがひらがなではなかったとき
     print(u"Warning : " + str(counter) + u"line : " + divideLine[0].decode("utf-8") + u" ひらがな以外が含まれています")
   # 単語 --------------------------------
-  # 基本的に特になし
+  if len(divideLine[1]) > 300:
+      print(u"Error : " + str(counter) + u"line : " + u"単語が長いです(" + str(len(divideLine[1])) + u")")
   # 品詞 --------------------------------
   if (divideLine[2].decode("utf-8") in arrayHinshi) == False  :
       print(u"Error : " + str(counter) + u"line :  " + divideLine[2].decode("utf-8")  + " : " + u"品詞が不正です")
@@ -47,8 +50,8 @@ while line:
       counter = counter + 1
       continue
   # コメント ----------------------------
-  if len(divideLine[3]) > 300
-      print(u"Error : " + str(counter) + u"line : " + u"コメントが長いです")
+  if len(divideLine[3]) > 300:
+      print(u"Error : " + str(counter) + u"line : " + u"コメントが長いです(" + str(len(divideLine[3])) + u")")
   line = f.readline()
   counter = counter + 1
 f.close
