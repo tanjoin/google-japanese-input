@@ -53,5 +53,11 @@ pythonファイル郡
 - compare_dic_and_dic - 辞書同士を比較するスクリプト
 - convert_simeji - Google日本語入力の辞書をSimejiの辞書に変換する
 
+## 参考文献
+- Twitter Timeline
+- <a href="http://www10.atwiki.jp/herrington/pages/11.html">本格的 ガチムチパンツレスリングまとめwiki - 空耳まとめ</a>
+- <a href="http://ch.nicovideo.jp/chihou/blomaga/ar341345">日常で使える淫夢語録:まとめ遅報 - ブロマガ</a>
+- <a href="http://wikiwiki.jp/livejupiter/?%BF%BF%B2%C6%A4%CE%CC%EB%A4%CE%B0%FC%CC%B4">真夏の夜の淫夢 - 新・なんJ用語集 Wiki</a>
+
 ## README.md
 このファイル
