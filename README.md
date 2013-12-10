@@ -55,9 +55,10 @@ pythonファイル郡
 
 ## 参考文献
 - Twitter Timeline
-- <a href="http://www10.atwiki.jp/herrington/pages/11.html">本格的 ガチムチパンツレスリングまとめwiki - 空耳まとめ</a>
-- <a href="http://ch.nicovideo.jp/chihou/blomaga/ar341345">日常で使える淫夢語録:まとめ遅報 - ブロマガ</a>
-- <a href="http://wikiwiki.jp/livejupiter/?%BF%BF%B2%C6%A4%CE%CC%EB%A4%CE%B0%FC%CC%B4">真夏の夜の淫夢 - 新・なんJ用語集 Wiki</a>
+- [本格的 ガチムチパンツレスリングまとめwiki - 空耳まとめ](http://www10.atwiki.jp/herrington/pages/11.html)
+- [日常で使える淫夢語録:まとめ遅報 - ブロマガ](http://ch.nicovideo.jp/chihou/blomaga/ar341345)
+- [真夏の夜の淫夢 - 新・なんJ用語集 Wiki](http://wikiwiki.jp/livejupiter/?%BF%BF%B2%C6%A4%CE%CC%EB%A4%CE%B0%FC%CC%B4)
+- [パ●パン好きのサンタとＨしたら怒って忘れ物していった(´；ω；｀) - いたしん！](http://itaishinja.com/archives/3955591.html)
 
 ## README.md
 このファイル
