@@ -6,59 +6,64 @@ Google日本語入力のカスタム辞書です
 
 Google日本語入力にインポートするだけで使えます
 
-👏(・_・)ｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗｗ
 
-## google_japanese_input
+( ◠‿◠ )」ファイルをわかりやすく Root Directory に置いたぞ
+
+
+# google_japanese_input
 Google日本語入力用辞書群
 
-- android_google_japanese_input_suggest_dictionary.txt - Android版Google日本語入力サジェスト辞書
-- encyclopedia.txt - 300字の簡易辞書
-- inmu_dictionary.txt - これもうわかんねぇな。
-- kaomoji_dictionary.txt - 顔文字辞書
-- mac_google_japanese_input_suggest_dictionary.txt
-- seiyu_dictionary.txt - 声優語録
-- sub_calture_dictionary.txt - サブカル専門用語等をまとめた辞書
-- suretai_dictionary.txt - 2chのスレタイを集めた辞書
+- 作成中
 
-#### other
-開発中の辞書
+# FILE
+**README.md**
 
-- tanjoin_google_japanese_input.txt - 個人的な趣味の詰まった辞書
-
-
-## simeji
-Simeji用辞書群
-
-## scripts
-実行可能なシェルスクリプト群 (pythonが実行可能な環境が必要)
-
-- convert_simeji.sh
-
-      ./scripts/convert_simeji.sh
-
-- compare_dic_and_dic.sh
-
-      ./scripts/compare_dic_and_dic.sh <比較元 file> <比較対象 file>
-
-- check_google_japanese_input.sh
-
-      ./scripts/check_google_japanese_input.sh
-
-#### bin
-pythonファイル郡
-
-基本的にシェルスクリプトから呼び出します
-
-- check_gji_dictionary - Google日本語入力の辞書として使えるかチェックスクリプト
-- compare_dic_and_dic - 辞書同士を比較するスクリプト
-- convert_simeji - Google日本語入力の辞書をSimejiの辞書に変換する
-
-## 参考文献
-- Twitter Timeline
-- [本格的 ガチムチパンツレスリングまとめwiki - 空耳まとめ](http://www10.atwiki.jp/herrington/pages/11.html)
-- [日常で使える淫夢語録:まとめ遅報 - ブロマガ](http://ch.nicovideo.jp/chihou/blomaga/ar341345)
-- [真夏の夜の淫夢 - 新・なんJ用語集 Wiki](http://wikiwiki.jp/livejupiter/?%BF%BF%B2%C6%A4%CE%CC%EB%A4%CE%B0%FC%CC%B4)
-- [パ●パン好きのサンタとＨしたら怒って忘れ物していった(´；ω；｀) - いたしん！](http://itaishinja.com/archives/3955591.html)
-
-## README.md
+```
 このファイル
+```
+
+**old/**
+
+```
+過去の Script とか
+```
+
+**ギャルゴリラ文字.txt**
+
+```
+ギャルゴリラ文字を打ちやすくカスタム辞書にしました
+```
+
+**顔文字.txt**
+
+```
+様々な顔文字が入っています
+```
+
+# Q&A
+
+**Q. 顔文字が途中で途切れている** 
+    
+    "Google 日本語入力 辞書ツール" で途切れている顔文字を入れなおしてください
+
+
+
+# 参考文献
+- ギャルゴリラ文字.txt
+    - [https://twitter.com/rinngo9119/status/366068647493517314](https://twitter.com/rinngo9119/status/366068647493517314)
+    - [ギャル文字 - Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E6%96%87%E5%AD%97#.E3.81.B2.E3.82.89.E3.81.8C.E3.81.AA)
+- 顔文字.txt
+	- <!-- 携帯端末に保存していた --> みんなの顔文字辞典
+	- <!-- よくTLに流れてくる --> Twitter 等
+- まつらいさん
+	- [https://twitter.com/whitesincerely/status/440386099198705664](https://twitter.com/whitesincerely/status/440386099198705664)
+	- [https://twitter.com/whitesincerely/status/439429161384280064](https://twitter.com/whitesincerely/status/439429161384280064)
+	- [https://twitter.com/whitesincerely/statuses/415315472309948416](https://twitter.com/whitesincerely/statuses/415315472309948416)
+	- [https://twitter.com/whitesincerely/statuses/423119236051906560](https://twitter.com/whitesincerely/statuses/423119236051906560)
+	- [https://twitter.com/whitesincerely/status/437846222854844416](https://twitter.com/whitesincerely/status/437846222854844416)
+	- [https://twitter.com/whitesincerely/status/437846943687921664](https://twitter.com/whitesincerely/status/437846943687921664)
+	- [https://twitter.com/whitesincerely/status/437846623062732801](https://twitter.com/whitesincerely/status/437846623062732801)
+	- [https://twitter.com/whitesincerely/status/436152832744374273](https://twitter.com/whitesincerely/status/436152832744374273)
+	- [https://twitter.com/whitesincerely/status/435413400772833280](https://twitter.com/whitesincerely/status/435413400772833280)
+	- [https://twitter.com/whitesincerely/status/435411882443145217](https://twitter.com/whitesincerely/status/435411882443145217)
+	
