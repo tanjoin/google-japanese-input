@@ -10,11 +10,6 @@ Google日本語入力にインポートするだけで使えます
 ( ◠‿◠ )」ファイルをわかりやすく Root Directory に置いたぞ
 
 
-# google_japanese_input
-Google日本語入力用辞書群
-
-- 作成中
-
 # FILE
 **README.md**
 
