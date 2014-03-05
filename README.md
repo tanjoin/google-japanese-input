@@ -40,6 +40,12 @@ Google日本語入力用辞書群
 様々な顔文字が入っています
 ```
 
+**まつらいさん.txt**
+
+```
+まつらいさんの Twitter 名言集
+```
+
 # Q&A
 
 **Q. 顔文字が途中で途切れている** 
@@ -53,9 +59,9 @@ Google日本語入力用辞書群
     - [https://twitter.com/rinngo9119/status/366068647493517314](https://twitter.com/rinngo9119/status/366068647493517314)
     - [ギャル文字 - Wikipedia](http://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AB%E6%96%87%E5%AD%97#.E3.81.B2.E3.82.89.E3.81.8C.E3.81.AA)
 - 顔文字.txt
-	- <!-- 携帯端末に保存していた --> みんなの顔文字辞典
-	- <!-- よくTLに流れてくる --> Twitter 等
-- まつらいさん
+	- みんなの顔文字辞典
+	- Twitter 等
+- まつらいさん.txt
 	- [https://twitter.com/whitesincerely/status/440386099198705664](https://twitter.com/whitesincerely/status/440386099198705664)
 	- [https://twitter.com/whitesincerely/status/439429161384280064](https://twitter.com/whitesincerely/status/439429161384280064)
 	- [https://twitter.com/whitesincerely/statuses/415315472309948416](https://twitter.com/whitesincerely/statuses/415315472309948416)
