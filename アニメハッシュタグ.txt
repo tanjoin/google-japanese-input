@@ -1,9 +1,0 @@
-ゆゆしき	#yuyushiki	名詞	ゆゆ式
-ゆるゆり	#yuruyuri	名詞	ゆるゆり
-ぷりてぃりずむ	#prettyrhythm	名詞	プリティーリズム
-ぷりぱら	#pripara	名詞	プリパラ
-ぷりきゅあ	#precure	名詞	プリキュア
-ねぎま	#negima	名詞	魔法先生ネギま！
-わーきんぐ	#wagnaria	名詞	WORKING!!
-あいどるますたー	#imas	名詞
-さき	#saki	名詞	

@@ -1,0 +1,82 @@
+ぎっと	git	名詞	git。
+ぎっと	git	名詞	git。
+ぎっとあど	git add	名詞	git コマンド。
+ぎっとあど	git add	名詞	git コマンド。
+ぎっとぶらんち	git branch	名詞	git コマンド。
+ぎっとぶらんち	git branch	名詞	git コマンド。
+ぎっとぶらんちでりーと	git branch -D	名詞	git コマンド。
+ぎっとぶらんちでりーと	git branch -D	名詞	git コマンド。
+ぎっとちぇっくあうとびー	git checkout -b	名詞	git コマンド。
+ぎっとちぇっくあうとびー	git checkout -b	名詞	git コマンド。
+ぎっとちぇっくあうとてぃー	git checkout -t	名詞	git コマンド。
+ぎっとちぇっくあうとてぃー	git checkout -t	名詞	git コマンド。
+ぎっとくろーん	git clone	名詞	git コマンド。
+ぎっとくろーん	git clone	名詞	git コマンド。
+ぎっとこみっと	git commit	名詞	git コマンド。
+ぎっとこみっと	git commit	名詞	git コマンド。
+ぎっとこみっとあめんど	git commit --amend	名詞	git コマンド。
+ぎっとこみっとあめんど	git commit --amend	名詞	git コマンド。
+ぎっとでぃふ	git diff	名詞	git コマンド。
+ぎっとでぃふ	git diff	名詞	git コマンド。
+ぎっとでぃふわーどでぃふ	git diff --word-diff	名詞	git コマンド。
+ぎっとでぃふわーどでぃふ	git diff --word-diff	名詞	git コマンド。
+ぎっとふぇっち	git fetch	名詞	git コマンド。
+ぎっとふぇっち	git fetch	名詞	git コマンド。
+ぎっとえふえすしーけー	git fsck	名詞	git コマンド。
+ぎっとえふえすしーけー	git fsck	名詞	git コマンド。
+ぎっとじーしー	git gc	名詞	git コマンド。
+ぎっとじーしー	git gc	名詞	git コマンド。
+ぎっとじーしーぷるーん	git gc --prune	名詞	git コマンド。
+ぎっとじーしーぷるーん	git gc --prune	名詞	git コマンド。
+ぎっとろぐ	git log	名詞	git コマンド。
+ぎっとろぐ	git log	名詞	git コマンド。
+ぎっとろぐぐらふ	git log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	名詞	git コマンド。
+ぎっとろぐぐらふ	git log --graph --all --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	名詞	git コマンド。
+ぎっとろぐぐらふ	git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	名詞	git コマンド。
+ぎっとろぐぐらふ	git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative	名詞	git コマンド。
+ぎっとまーじ	git merge	名詞	git コマンド。
+ぎっとまーじ	git merge	名詞	git コマンド。
+ぎっとぷるーん	git prune	名詞	git コマンド。
+ぎっとぷるーん	git prune	名詞	git コマンド。
+ぎっとぷる	git pull	名詞	git コマンド。
+ぎっとぷる	git pull	名詞	git コマンド。
+ぎっとぷるりべーす	git pull --rebase	名詞	git コマンド。
+ぎっとぷるりべーす	git pull --rebase	名詞	git コマンド。
+ぎっとぷっしゅ	git push	名詞	git コマンド。
+ぎっとぷっしゅ	git push	名詞	git コマンド。
+ぎっとぷっしゅゆー	git push -u	名詞	git コマンド。
+ぎっとぷっしゅゆー	git push -u	名詞	git コマンド。
+ぎっとりべーす	git rebase	名詞	git コマンド。
+ぎっとりべーす	git rebase	名詞	git コマンド。
+ぎっとりべーすこんてぃにゅー	git rebase --continue	名詞	git コマンド。
+ぎっとりべーすこんてぃにゅー	git rebase --continue	名詞	git コマンド。
+ぎっとりべーすあい	git rebase -i HEAD~2	名詞	git コマンド。
+ぎっとりべーすあい	git rebase -i HEAD~2	名詞	git コマンド。
+ぎっとりふろぐ	git reflog	名詞	git コマンド。
+ぎっとりふろぐ	git reflog	名詞	git コマンド。
+ぎっとりもーとあっぷでーと	git remote update	名詞	git コマンド。
+ぎっとりもーとあっぷでーと	git remote update	名詞	git コマンド。
+ぎっとりもーとあっぷでーとぎっとちぇっくあうとぎっとぷる	git remote update; git checkout master; git pull origin master	名詞	git コマンド。
+ぎっとりもーとあっぷでーとぎっとちぇっくあうとぎっとぷる	git remote update; git checkout master; git pull origin master	名詞	git コマンド。
+ぎっとりせっとはーど	git reset --hard	名詞	git コマンド。
+ぎっとりせっとはーど	git reset --hard	名詞	git コマンド。
+ぎっとりせっとはーどへっどにょろ	git reset --hard HEAD~	名詞	git コマンド。
+ぎっとりせっとはーどへっどにょろ	git reset --hard HEAD~	名詞	git コマンド。
+ぎっとりばーと	git revert	名詞	git コマンド。
+ぎっとりばーと	git revert	名詞	git コマンド。
+ぎっとしょうぶらんち	git show-branch	名詞	git コマンド。
+ぎっとしょうぶらんち	git show-branch	名詞	git コマンド。
+ぎっとすたっしゅ	git stash	名詞	git コマンド。
+ぎっとすたっしゅ	git stash	名詞	git コマンド。
+ぎっとすたっしゅあぷらい	git stash apply	名詞	git コマンド。
+ぎっとすたっしゅあぷらい	git stash apply	名詞	git コマンド。
+ぎっとすたっしゅぽっぷ	git stash pop	名詞	git コマンド。
+ぎっとすたっしゅぽっぷ	git stash pop	名詞	git コマンド。
+ぎっとすたっしゅせーぶ	git stash save	名詞	git コマンド。
+ぎっとすたっしゅせーぶ	git stash save	名詞	git コマンド。
+ぎっとすてーたす	git status	名詞	git コマンド。
+ぎっとすてーたす	git status	名詞	git コマンド。
+ぎっとすてーたすえすびー	git status -sb	名詞	git コマンド。
+ぎっとすてーたすえすびー	git status -sb	名詞	git コマンド。
+ぎっとたぐ	git tag	名詞	git コマンド。
+ぎっとたぐ	git tag	名詞	git コマンド。
