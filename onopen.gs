@@ -8,6 +8,10 @@ function onOpen() {
     {
       name: '名前をつけてエクスポート',
       functionName: 'exportWithName'
+    },
+    {
+      name: 'ユニーク化',
+      functionName: 'unique'
     }
   ];
   spreadSheet.addMenu('辞書', subMenus);
